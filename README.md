@@ -5,7 +5,7 @@ My name is Isaque Jonatas de O. Moraes. I'm A brazilian student. I currentyly st
 - 🔭 I’m currently working on asdas
 - 🌱 I’m currently learning C, C++
 - 👯 I’m looking to collaborate on Brazilian corporation and cominity projects.
-- 🤔 I’m looking for help with To study with OBI(Brazilian Olypiad of Informatics)
+- 🤔 I’m looking for help with To study with OBI(Brazilian Olypiad of Informatics) and study for OBMEP
 - 💬 Ask me about Music, movies, games, Math and programing
 - 📫 How to reach me: QNN 11 lote 2/4 aprto. 203 bloco B
 - 😄 Pronouns: he/Him
